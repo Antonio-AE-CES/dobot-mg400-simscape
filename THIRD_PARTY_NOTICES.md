@@ -50,7 +50,7 @@ This file is **not redistributed** with this repository.
 Users should obtain the MG400 End Flange 3D model from the official DOBOT
 MG400 product/download page:
 
-https://www.dobot-robots.com/products/desktop-four-axis/mg400.html
+https://www.dobot-robots.com/service/download-center
 
 The downloaded file should be named:
 
