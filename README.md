@@ -57,9 +57,8 @@ MG400_End_Flange_3D.stp
 
 is intentionally **not redistributed** with this repository.
 
-Download **DOBOT MG400_End_Flange_3D** from the official DOBOT MG400 product page:
-
-https://www.dobot-robots.com/products/desktop-four-axis/mg400.html
+Download [`DOBOT MG400_End_Flange_3D`](https://www.dobot-robots.com/service/download-center/287.html)
+from the official DOBOT Download Center.
 
 Place the file in the repository root, next to:
 
