@@ -195,8 +195,9 @@ For version 1.0.0:
 ```text
 A. Gallardo Montti, "DOBOT MG400 Interactive Model for Simscape Multibody,"
 version 1.0.0, 2026.
-DOI: [10.5281/zenodo.23069741](https://doi.org/10.5281/zenodo.23069741)
+DOI: 10.5281/zenodo.23069741
 ```
+[https://doi.org/10.5281/zenodo.23069741](https://doi.org/10.5281/zenodo.23069741)
 
 GitHub also provides a **Cite this repository** option based on the machine-readable [`CITATION.cff`](CITATION.cff) file.
 
