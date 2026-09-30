@@ -8,7 +8,9 @@
 [![Last commit](https://img.shields.io/github/last-commit/Antonio-AE-CES/dobot-mg400-simscape)](https://github.com/Antonio-AE-CES/dobot-mg400-simscape/commits/main)
 
 <p align="center">
-  <img src="mg400.jpg" alt="DOBOT MG400 Simscape Multibody model" width="620">
+  <img src="https://raw.githubusercontent.com/Antonio-AE-CES/dobot-mg400-simscape/main/mg400.jpg"
+       alt="DOBOT MG400 Simscape Multibody model"
+       width="620">
 </p>
 
 An interactive educational model of the **DOBOT MG400** built with **MATLAB, Simulink, Simscape, and Simscape Multibody**.
@@ -69,29 +71,20 @@ MG400_DigitalTwin_Interactive.slx
 
 The expected layout is:
 
-```text
 dobot-mg400-simscape/
 ├── MG400_DigitalTwin_Interactive.slx
-├── MG400_End_Flange_3D.stp        <-- downloaded separately
+├── MG400_End_Flange_3D.stp   <-- downloaded separately
 ├── mg400.jpg
 ├── mg400_description.urdf
 ├── mg400_description/
 │   └── meshes/
-│       ├── base_link.STL
-│       ├── link1.STL
-│       ├── link2_1.STL
-│       ├── link2_2.STL
-│       ├── link3_1.STL
-│       ├── link3_2.STL
-│       ├── link4_1.STL
-│       ├── link4_2.STL
-│       └── link5.STL
+├── CITATION.cff
 ├── LICENSE
+├── README.md
 ├── THIRD_PARTY_NOTICES.md
 └── third_party/
     └── licenses/
         └── DOBOT_MG400_ROS_LICENSE.txt
-```
 
 ### 3. Open the Simulink model
 
