@@ -188,13 +188,14 @@ Third-party assets retain their original copyright and licensing terms. See [`TH
 
 ## Citation
 
-If you use this model in academic or educational work, please cite this repository:
+If you use this model in academic or educational work, please cite the software using the metadata provided in [`CITATION.cff`](CITATION.cff).
+
+For version 1.0.0:
 
 ```text
 A. Gallardo Montti, "DOBOT MG400 Interactive Model for Simscape Multibody,"
-GitHub repository, 2026.
-https://github.com/Antonio-AE-CES/dobot-mg400-simscape
-```
+version 1.0.0, 2026.
+DOI: 10.5281/zenodo.23069741
 
 A machine-readable `CITATION.cff` file can be added in a future release.
 
