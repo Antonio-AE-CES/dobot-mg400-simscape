@@ -71,20 +71,21 @@ MG400_DigitalTwin_Interactive.slx
 
 The expected layout is:
 
-dobot-mg400-simscape/
-├── MG400_DigitalTwin_Interactive.slx
-├── MG400_End_Flange_3D.stp   <-- downloaded separately
-├── mg400.jpg
-├── mg400_description.urdf
-├── mg400_description/
-│   └── meshes/
-├── CITATION.cff
-├── LICENSE
-├── README.md
-├── THIRD_PARTY_NOTICES.md
-└── third_party/
-    └── licenses/
-        └── DOBOT_MG400_ROS_LICENSE.txt
+The expected layout is:
+
+- `MG400_DigitalTwin_Interactive.slx`
+- `MG400_End_Flange_3D.stp` — downloaded separately from DOBOT
+- `mg400.jpg`
+- `mg400_description.urdf`
+- `mg400_description/`
+  - `meshes/` — official MG400 STL geometry
+- `CITATION.cff`
+- `LICENSE`
+- `README.md`
+- `THIRD_PARTY_NOTICES.md`
+- `third_party/`
+  - `licenses/`
+    - `DOBOT_MG400_ROS_LICENSE.txt`
 
 ### 3. Open the Simulink model
 
