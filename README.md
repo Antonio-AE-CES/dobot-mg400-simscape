@@ -1,5 +1,6 @@
 # DOBOT MG400 Interactive Model for Simscape Multibody
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23069741.svg)](https://doi.org/10.5281/zenodo.23069741)
 [![MATLAB](https://img.shields.io/badge/MATLAB-R2026a-e16737?logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
 [![Simulink](https://img.shields.io/badge/Simulink-Model-0076a8)](https://www.mathworks.com/products/simulink.html)
 [![Simscape Multibody](https://img.shields.io/badge/Simscape-Multibody-0076a8)](https://www.mathworks.com/products/simscape-multibody.html)
@@ -194,7 +195,7 @@ For version 1.0.0:
 ```text
 A. Gallardo Montti, "DOBOT MG400 Interactive Model for Simscape Multibody,"
 version 1.0.0, 2026.
-DOI: 10.5281/zenodo.23069741
+DOI: [10.5281/zenodo.23069741](https://doi.org/10.5281/zenodo.23069741)
 ```
 
 GitHub also provides a **Cite this repository** option based on the machine-readable [`CITATION.cff`](CITATION.cff) file.
