@@ -41,7 +41,7 @@ assets from the official DOBOT MG400_ROS repository described above.
 
 ## MG400 End Flange CAD model
 
-The model optionally requires the official DOBOT MG400 end-flange CAD file:
+The model requires the official DOBOT MG400 end-flange CAD file:
 
 `MG400_End_Flange_3D.stp`
 
