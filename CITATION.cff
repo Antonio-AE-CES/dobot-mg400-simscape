@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using these metadata."
+title: "DOBOT MG400 Interactive Model for Simscape Multibody"
+type: software
+authors:
+  - family-names: "Gallardo Montti"
+    given-names: "Antonio"
+    affiliation: "Computational Enterprise Simulations (CES Latam)"
+version: "1.0.0"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23069741"
+    description: "Archived release of version 1.0.0 on Zenodo."
+repository-code: "https://github.com/Antonio-AE-CES/dobot-mg400-simscape"
+url: "https://github.com/Antonio-AE-CES/dobot-mg400-simscape"
+license: MIT
+keywords:
+  - "DOBOT MG400"
+  - robotics
+  - MATLAB
+  - Simulink
+  - "Simscape Multibody"
+  - "robot simulation"
+  - "multibody simulation"
+  - "robot kinematics"
+  - education
+abstract: >-
+  Interactive educational model of the DOBOT MG400 developed with MATLAB,
+  Simulink, Simscape, and Simscape Multibody. The model provides interactive
+  control of the four independent joints and reproduces the auxiliary joint
+  relationships defined in the official MG400 URDF. The current release is
+  intended for prescribed-motion kinematic visualization and educational use.
